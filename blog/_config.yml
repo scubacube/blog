@@ -32,3 +32,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+baseurl: "/blog"
+production_url : http://scubacube.github.io.com/blog
+BASE_PATH : http://scubacube.com/blog
